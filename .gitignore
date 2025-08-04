@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.DS_Store
+.vscode/
+.venv/
+.idea/*
+shopee_cookies.pkl
+*.pyc
