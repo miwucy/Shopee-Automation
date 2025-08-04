@@ -1,5 +1,7 @@
 # Shopee Order Crawler
 
+[English](README.md) | [中文](README_zh.md)
+
 A powerful and intelligent web crawler for extracting order data from Shopee Seller Center. This tool automatically logs in, navigates through orders, and exports detailed order information to Excel format.
 
 ## 🚀 Features
